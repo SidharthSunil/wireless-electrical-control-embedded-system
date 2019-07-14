@@ -1,2 +1,3 @@
 # wireless-electrical-control-embedded-system
-controlling electrical instruments using 8051 microcontroller
+Controlling home appliances and other electrical instruments using Atmel 8051 microcontroller, bluetooth module, relays, etc.
+Microcontroller is programmed in embedded C.
